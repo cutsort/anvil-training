@@ -24,6 +24,7 @@ This tutorial demonstrates how to run a GWAS analysis on [AnVIL](https://anvilpr
 
 ## Sections
 
+0. Introduction [[movie](https://drive.google.com/uc?id=1dO4xsI6FDC7VMmGIs3APvP4BmxgZEAAd)][[slides](https://docs.google.com/presentation/d/1eOk8Rq7gJP3aCheOZvBRH4fxxF9q9LbH1Ukb034hEv8)]
 1. Create workspace
 1. Import workflow
 1. Upload sample data
@@ -32,6 +33,6 @@ This tutorial demonstrates how to run a GWAS analysis on [AnVIL](https://anvilpr
 1. Point to GDS / VCF files
 1. Configure workflow
 1. Run workflow
-1. Explore top variants [[movie](https://drive.google.com/uc?id=1GdJeq2lrlQv0Ba44q3E74_dPdmdkeJO5)][[slides](https://docs.google.com/presentation/d/1ezmW_hRlq9gcQO3DQcTtOCvFsuZHbxiXxOre3955LJI/edit?usp=sharing)]
+1. Explore top variants [[movie](https://drive.google.com/uc?id=1GdJeq2lrlQv0Ba44q3E74_dPdmdkeJO5)][[slides](https://docs.google.com/presentation/d/1ezmW_hRlq9gcQO3DQcTtOCvFsuZHbxiXxOre3955LJI)]
     - `us.gcr.io/anvil-gcr-public/anvil-rstudio-bioconductor:0.0.4`
 
